@@ -1,3 +1,10 @@
+Description:
+
+AI-integrated DeepMyst is a full-stack Next.js application featuring a custom authentication system with JWT, sessions, and AuthJS. It enables anonymous messaging between users and integrates AI-powered random message generation using the Gemini API. Users can securely communicate without revealing their identity, ensuring privacy and anonymity. The platform combines real-time interactions with AI-generated content, making messaging more engaging and dynamic.
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
